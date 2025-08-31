@@ -88,8 +88,8 @@ Create `.env` files in the `server`, `user-frontend`, and `admin-frontend` direc
    ```
 
 ### Access the Application
-- **User Frontend**: `http://localhost:5173`
-- **Admin Frontend**: `http://localhost:5174`
+- **User Frontend**: `https://movie-review-user.vercel.app`
+- **Admin Frontend**: `https://movie-review-admin-snowy.vercel.app/login`
 
 ## License
 This project is licensed under the MIT License.
